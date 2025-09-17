@@ -1,4 +1,4 @@
-# KSL Project
+# KSL (24.06.2022)
 
 KSL is a school system similar to Smartschool written in PHP designed for students, teachers, and principals.  
 It features different user roles with specific privileges, allowing each to access only the sections relevant to them.
