@@ -1,0 +1,48 @@
+.delete-button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #f71403;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(194, 22, 22);
+  }
+  
+  .delete-button:hover {
+    background-color: #db1c0e;
+  }
+  
+  .delete-button:active {
+    background-color: #db1717;
+    box-shadow: 0 5px rgb(189, 25, 25);
+    transform: translateY(4px);
+  }
+
+
+
+
+  .edit-button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #1a78e4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(17, 86, 151);
+  }
+  
+  .edit-button:hover {
+    background-color: #1e5fd6;
+  }
+  
+  .edit-button:active {
+    background-color: #1d5de7;
+    box-shadow: 0 5px rgb(14, 36, 138);
+    transform: translateY(4px);
+  }

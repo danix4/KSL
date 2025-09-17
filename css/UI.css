@@ -1,0 +1,17 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #3fa435!important;
+}
+.btn-primary {
+    opacity: 0.7;
+}
+
+@media screen and (max-width: 500px) {
+    .tbody {
+        width: 50%;
+    }
+}
+  
+.alert {
+    height: 150px;
+    overflow-y: scroll;
+}

@@ -1,0 +1,28 @@
+
+
+.table {
+  text-align: center; 
+  width: 100%;
+  color: #0c0e0c;
+}
+
+  .table thead th {
+    border: 2px solid #0f0f0f;;
+    padding: 30px;
+    font-size: 22px;
+    color: rgb(5, 5, 5); }
+    
+
+  .table tbody th, .table tbody td {
+    border: 2px solid #0f0f0f;;
+    padding: 25px;
+    font-size: 18px;
+    background: rgb(245, 231, 231);
+    vertical-align: middle;
+     }
+
+
+    .ftco-section {
+      padding: 3.5em 0; }
+    
+    
